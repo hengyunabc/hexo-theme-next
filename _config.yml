@@ -306,7 +306,7 @@ codeblock:
 wechat_subscriber:
   enabled: true
   qcode: /img/qrcode_gongzhonghao.jpg
-  description: 欢迎您扫一扫上面的微信公众号，订阅我的专栏
+  description: 欢迎您扫一扫上面的微信公众号，订阅横云断岭的专栏
 
 # Reward
 #reward_comment: Donate comment here
